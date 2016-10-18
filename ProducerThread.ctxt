@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=producer\ id
+comment0.target=ProducerThread(Threads.Producer,\ int)
+comment1.params=
+comment1.target=void\ run()
+numComments=2
